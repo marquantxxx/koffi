@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/koffi/index.html"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/koffi/:path*"
+    }
+  ]
+}
