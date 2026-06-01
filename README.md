@@ -2,6 +2,10 @@
 
 Koffi is a playful single-page coffee website built with plain HTML, CSS, and JavaScript. It explores a bold hero experience, tactile card interactions, custom SVG motion, and responsive mobile behavior without using any frameworks.
 
+
+https://github.com/user-attachments/assets/27b55167-f1df-4e1c-bcba-2e065d24ad19
+
+
 ## Project Structure
 
 ```txt
